@@ -4,7 +4,7 @@
 - 🤓 I am interested in front-end web development, data analytics and ML/DL  
   
 
-- 🌱 I’m currently doing my thesis focusing on satellite data and deep learning algorithms  
+- 🌊 I’m currently doing my thesis on the prediction of an oceanic variable and phenomena using deep learning algorithms  
   
 
 <br/>  
