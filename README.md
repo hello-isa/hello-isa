@@ -1,10 +1,10 @@
 ### <div align="center">I'm Isa, a computer science student 💻</div>  
   
 
-- 🤓 I am interested in front-end web development, data analytics and ML/DL  
+- 🤓 Interested in front-end web development, data analytics and ML/DL  
   
 
-- 🌊 I’m currently doing my thesis on the prediction of an oceanic variable and phenomena using deep learning algorithms  
+- 🌊 Currently doing my thesis on the prediction of an oceanic variable and phenomena using deep learning algorithms  
   
 
 <br/>  
