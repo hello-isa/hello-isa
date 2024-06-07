@@ -1,4 +1,4 @@
-### <div align="center">I'm Isa, a computer science student 💻</div>  
+### <div align="center">I'm Issa, a computer science student 💻</div>  
   
 
 - 🤓 Interested in front-end web development, data analytics and ML/DL  
